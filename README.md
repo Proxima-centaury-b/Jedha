@@ -1,3 +1,1 @@
-Bienvenu sur ce Repo
-
-Ici, je mettrais mon book Python et autres langages
+You'll find here projects related to Jedha school's bootcamp.
